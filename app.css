@@ -17,13 +17,13 @@ body {
     flex-wrap: wrap;
     width: 400px;
     height: 300px;
-    padding-left: 630px;
+    padding-left: 470px;
    
   }
 
   h3{
     margin-top: 5px;
-    padding-left: 630px;
+    padding-left: 470px;
     letter-spacing: 2px;
     font-size: 23px;
    
@@ -37,3 +37,4 @@ body {
     text-align: center;
     letter-spacing: 2px;
   }
+
